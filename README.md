@@ -1,4 +1,4 @@
-# test-repository
+# my very first repo
 
-This is a second example
+kalob us an awesome teacher: 
 
