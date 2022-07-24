@@ -1,4 +1,4 @@
 # my very first repo
 
-kalob us an awesome teacher: 
+kalob is an awesome teacher: 
 
